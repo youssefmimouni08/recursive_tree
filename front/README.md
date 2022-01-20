@@ -1,72 +1,54 @@
 <h1 align="center">
-  Fullstack internship technical test
+  Family tree recursive functions 
 </h1>
 
 <h4 align="center">
-  Technical test to evaluate the candidate's knowledge.
+  code solution for working with nested objects  and recursive function using angular.
 </h4>
-
-<p align="center">
-  <img src="../fullstack-internship-screenshot.png" width="650">
-</p>
 
 # Objectives
 
 - Retrieve the list of users with a call to the API
 - Display the list of families in the table
 - In a column display the first and last name of favoriteChild of each family
-- Sort the list by the number of people in each family in descending order
 - Find and display the bestChild
-
-### **Bonus :**
-- User search by first and last name
-- Adds style and effect to the design
-
-<br/><br/>
-
-# Requirements
-Before you start, make sure you have this environment
-
-Name | Version
------------- | -------------
-<a href="https://nodejs.org/" target="_blank">NodeJS</a> | 14^
-<a href="https://www.npmjs.com/get-npm" target="_blank">NPM</a>  | 6^
 
 <br/><br/>
 
 # Getting started
 
 Execute the command `npm install` at the root of the repo `neocity-test` **AND** in the folder `fullstack_internship_test`
+
 ```console
-~/neocity-test $ npm install
-~/neocity-test/fullstack_internship_test $ npm install
+~/recursive_tree $ npm install
+~/recursive_tree/front $ npm install
 ```
 
 Start the server using the command at the root of the repo
+
 ```console
-~/neocity-test $ npm start
+~/recursive_tree $ npm start
 ```
 
 Start the application using the command in the folder fullstack
+
 ```console
-~/neocity-test/fullstack_internship_test $ npm start
+~/recursive_tree/front $ npm start
 ```
 
-**You don't need to touch the server. Once it is launched the rest of the exercise takes place in the folder fullstack_internship_test**
 <br/><br/>
 In the folder `src/app` you will find the `angular` application. \
-In the folder `src/app/providers` you will find `users.service.ts` where you have to create a method to query the server on this endpoint `http://localhost:1337/users` and retrieve users and then process them with the files `src/app/app.component.[html/css/ts]`
-
-At the end of your test, you must create a branch with your first name, last name and the name of the test.
-Example: `clement_saulnier-fullstack_test`
+In the folder `src/app/providers` you will find `users.service.ts` where we created a method to query the server on this endpoint `http://localhost:1337/users` and retrieve users and then process them with the files `src/app/app.component.[html/css/ts]`
 
 <br/><br/>
 
 # Ressources
 
 ### **users**
+
 `GET http://localhost:1337/users` \
 **Response**:
+
 ```json
 [
     {

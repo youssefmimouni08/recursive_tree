@@ -1,6 +1,5 @@
 import { Injectable } from "@angular/core";
 import { HttpClient } from "@angular/common/http";
-import { Observable } from "rxjs";
 import { IFamily } from "src/app/family";
 
 // https://angular.io/guide/providers
