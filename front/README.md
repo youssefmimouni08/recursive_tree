@@ -18,7 +18,7 @@
 # Code snippets
 
 | Retrieve the list of users with a call to the API
-<img src="../blob/main/img/fetchusers.PNG" width="650">
+<img src="../img/fetchusers.PNG" width="650">
 
 # Getting started
 
