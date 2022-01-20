@@ -17,16 +17,16 @@
 
 # Code snippets
 
-- Retrieve the list of users with a call to the API
+- Retrieving the list of users with a call to the API
   <br/><br/>
   <img src="../img/fetchusers.PNG" width="650">
 - adding the new favorite child object to fetched data using spread operator
   <br/><br/>
   <img src="../img/spread.PNG" width="650">
-- In a column display the first and last name of favoriteChild of each family
+- searching and finding the first and last name of the favoriteChild of each family
   <br/><br/>
   <img src="../img/fav.PNG" width="650">
-- Find and display the bestChild
+- Finding the bestChild
   <br/><br/>
   <img src="../img/bestie.PNG" width="650">
 
