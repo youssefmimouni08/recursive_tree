@@ -17,7 +17,7 @@
 
 # Getting started
 
-Execute the command `npm install` at the root of the repo `neocity-test` **AND** in the folder `fullstack_internship_test`
+Execute the command `npm install` at the root of the repo `recursive_tree` **AND** in the folder `front`
 
 ```console
 ~/recursive_tree $ npm install
@@ -38,7 +38,7 @@ Start the application using the command in the folder fullstack
 
 <br/><br/>
 In the folder `src/app` you will find the `angular` application. \
-In the folder `src/app/providers` you will find `users.service.ts` where we created a method to query the server on this endpoint `http://localhost:1337/users` and retrieve users and then process them with the files `src/app/app.component.[html/css/ts]`
+In the folder `src/app/providers` you will find `users.service.ts` where there is a method to query the server on this endpoint `http://localhost:1337/users` and retrieve users and then process them with the files `src/app/app.component.[html/css/ts]`
 
 <br/><br/>
 
