@@ -15,6 +15,11 @@
 
 <br/><br/>
 
+# Code snippets
+
+| Retrieve the list of users with a call to the API
+<img src="../img/fetch users.png" width="650">
+
 # Getting started
 
 Execute the command `npm install` at the root of the repo `recursive_tree` **AND** in the folder `front`
