@@ -17,7 +17,9 @@
 
 # Code snippets
 
-| Retrieve the list of users with a call to the API
+- Retrieve the list of users with a call to the API
+
+<br/><br/>
 <img src="../img/fetchusers.PNG" width="650">
 
 # Getting started
