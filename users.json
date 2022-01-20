@@ -1,0 +1,131 @@
+[
+  {
+    "id": 0,
+    "picture": "https://picsum.photos/id/454/24/24",
+    "family_name": "Barker",
+    "favoriteChild": 19,
+    "children": [
+      {
+        "id": 17,
+        "picture": "https://picsum.photos/id/455/24/24",
+        "first_name": "Vargas",
+        "last_name": "Barker"
+      },
+      {
+        "id": 18,
+        "picture": "https://picsum.photos/id/456/24/24",
+        "first_name": "Dollie",
+        "last_name": "Barker"
+      },
+      {
+        "id": 19,
+        "picture": "https://picsum.photos/id/457/24/24",
+        "first_name": "Lynn",
+        "last_name": "Barker"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "picture": "https://picsum.photos/id/458/24/24",
+    "family_name": "Chavez",
+    "favoriteChild": 10,
+    "children": [
+      {
+        "id": 15,
+        "picture": "https://picsum.photos/id/459/24/24",
+        "first_name": "Lynn",
+        "last_name": "Chavez",
+        "children": [
+          {
+            "id": 9,
+            "picture": "https://picsum.photos/id/460/24/24",
+            "first_name": "Graves",
+            "last_name": "Chavez",
+            "children": [
+              {
+                "id": 10,
+                "picture": "https://picsum.photos/id/461/24/24",
+                "first_name": "Noemi",
+                "last_name": "Chavez"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "picture": "https://picsum.photos/id/462/24/24",
+        "first_name": "Mckinney",
+        "last_name": "Chavez"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "picture": "https://picsum.photos/id/453/24/24",
+    "family_name": "Leach",
+    "favoriteChild": 13,
+    "children": [
+      {
+        "id": 11,
+        "picture": "https://picsum.photos/id/464/24/24",
+        "first_name": "Short",
+        "last_name": "Leach"
+      },
+      {
+        "id": 12,
+        "picture": "https://picsum.photos/id/465/24/24",
+        "first_name": "Chen",
+        "last_name": "Leach"
+      },
+      {
+        "id": 13,
+        "picture": "https://picsum.photos/id/466/24/24",
+        "first_name": "Bean",
+        "last_name": "Leach"
+      },
+      {
+        "id": 14,
+        "picture": "https://picsum.photos/id/467/24/24",
+        "first_name": "Hensley",
+        "last_name": "Leach",
+        "bestChild": 14
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "picture": "https://picsum.photos/id/468/24/24",
+    "family_name": "Ewing"
+  },
+  {
+    "id": 4,
+    "picture": "https://picsum.photos/id/469/24/24",
+    "family_name": "Bernard",
+    "favoriteChild": 5,
+    "children": [
+      {
+        "id": 5,
+        "picture": "https://picsum.photos/id/470/24/24",
+        "first_name": "Lawrence",
+        "last_name": "Bernard"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "picture": "https://picsum.photos/id/471/24/24",
+    "family_name": "Graves"
+  },
+  {
+    "id": 7,
+    "picture": "https://picsum.photos/id/472/24/24",
+    "family_name": "Duncan"
+  },
+  {
+    "id": 8,
+    "picture": "https://picsum.photos/id/473/24/24",
+    "family_name": "Fischer"
+  }
+]
